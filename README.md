@@ -1,13 +1,13 @@
-# recordingOfCartridgeIssuance
-
 This web resource need for accounting issuance cartridge and create month and year reports.
 
 Easy format project: only one index.php file.
 
-Database over json files.
+Database over in files.
 
-JSON file create automaticly. Only need rules for create files.
+Files create automatically. Only need rules for write (create files).
 
-Copy index.php file inside catalog web server this php (check on version 7.2).
+Copy index.php file inside catalog web server. 
 
-Finish settings, you need open project over web browser on create records.
+Verified on version php 7.2.
+
+Finish, you now need open project over web browser.
