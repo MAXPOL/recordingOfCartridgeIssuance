@@ -12,4 +12,6 @@ Verified on version php 7.2.
 
 Finish, you now need open project over web browser.
 
+Administration password chenge over string $password = '123' where 123 default password. You need chenge it.
+
 (WARNING: vibe coding moments)
