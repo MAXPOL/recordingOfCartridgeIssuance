@@ -1,4 +1,4 @@
-This web resource need for accounting issuance cartridge and create month and year reports.
+This web resource need for accounting issuance cartridge and create month and year reports. 
 
 Easy format project: only one index.php file.
 
@@ -11,3 +11,5 @@ Copy index.php file inside catalog web server.
 Verified on version php 7.2.
 
 Finish, you now need open project over web browser.
+
+(WARNING: vibe coding moments)
